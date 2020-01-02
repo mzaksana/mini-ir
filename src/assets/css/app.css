@@ -1,0 +1,33 @@
+.bg-color-gray{
+	background-color: #e6e6e6;
+}
+
+.input--search {
+	width: 560px;
+}
+
+.input--small {
+	width: 120px;
+}
+
+.card--large {
+	width: 300px;
+  }
+
+.p-t-50 {
+	padding-top: 50px;
+}
+
+.card-result{
+	margin-top: 40px;
+	margin-bottom: 23px;
+	-webkit-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+	-moz-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+	box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+	padding: 16px 20px;
+	padding-bottom: 10px;
+	background: #fff;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
